@@ -1,0 +1,26 @@
+{
+    "/": {
+        "path": "./root",
+        "node": "Root"
+    },
+    "/slot": {
+        "path": "./components/slot/slot",
+        "node": "SlotParent"
+    },
+    "/container": {
+        "path": "./components/containers/container",
+        "node": "Containers"
+    },
+    "/two-listeners": {
+        "path": "./components/two-listeners/twolisteners",
+        "node": "TwoListeners"
+    },
+    "/lexical-scope": {
+        "path": "./components/lexical-scope/lexicalScope",
+        "node": "LexicalScope"
+    },
+    "/weather": {
+        "path": "./components/resource/weather.tsx",
+        "node": "Weather"
+    }
+}
